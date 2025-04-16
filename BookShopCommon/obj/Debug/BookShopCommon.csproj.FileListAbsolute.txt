@@ -1,0 +1,6 @@
+D:\ASP.NET应用系统设计与开发\网站制作\BookShop\BookShopCommon\bin\Debug\BookShopCommon.dll
+D:\ASP.NET应用系统设计与开发\网站制作\BookShop\BookShopCommon\bin\Debug\BookShopCommon.pdb
+D:\ASP.NET应用系统设计与开发\网站制作\BookShop\BookShopCommon\obj\Debug\BookShopCommon.csproj.AssemblyReference.cache
+D:\ASP.NET应用系统设计与开发\网站制作\BookShop\BookShopCommon\obj\Debug\BookShopCommon.csproj.CoreCompileInputs.cache
+D:\ASP.NET应用系统设计与开发\网站制作\BookShop\BookShopCommon\obj\Debug\BookShopCommon.dll
+D:\ASP.NET应用系统设计与开发\网站制作\BookShop\BookShopCommon\obj\Debug\BookShopCommon.pdb
